@@ -1,0 +1,61 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.section01 {
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/chainlink-832259_1920.jpg);
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+.person {
+    display: inline-block;
+    margin-right: 5cm;
+}
+
+.person h1 {
+    font-size: 50px;
+    color: white;
+}
+
+.person input {
+    padding: 20px;
+    width: 100%;
+    border-radius: 30px;
+    font-size: 20px;
+}
+
+.nalezeno {
+    border: 5px solid white;
+    height: 500px;
+    width: 800px;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.info {
+    border: 1px solid none;
+    width: 400px;
+    display: inline-block;
+}
+
+.INFO {
+    margin-bottom: 20px;
+}
+
+.two {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+}
+
+.nalezeno p {
+    font-size: 30px;
+    color: white;
+}
