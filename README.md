@@ -14,10 +14,17 @@ Live search by last name (case insensitive)
 Animated input placeholder shows surnames from the database in a typing/deleting loop
 
 Displays:
+
 Name
+
 Surname
+
 Birth date
+
 City
+
 Type of crime
+
 📸 Photo
+
 Responsive design with a themed dark UI
