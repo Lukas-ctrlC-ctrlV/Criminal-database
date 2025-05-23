@@ -2,6 +2,7 @@
 A simple front-end application for searching notorious criminals by surname. The app displays detailed personal information and a photo of each individual, using a hardcoded data list.
 
 🌐 Technologies Used
+
 HTML – for structure
 
 CSS – for layout and styling
