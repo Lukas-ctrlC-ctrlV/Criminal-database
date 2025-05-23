@@ -3,7 +3,7 @@ let criminals = [{
     lastName: "Bundy",
     birth: "1946-11-24",
     city: "Burlington, Vermont, USA",
-    crime: "sériové vraždy",
+    crime: "serial murders",
     photo: "images/Bundy.jpg"
   },
   {
@@ -11,7 +11,7 @@ let criminals = [{
     lastName: "Escobar",
     birth: "1949-12-01",
     city: "Rionegro, Kolumbie",
-    crime: "obchod s drogami, vraždy",
+    crime: "drug trafficking, murders",
     photo: "images/Escobar.jpg"
   },
   {
@@ -19,7 +19,7 @@ let criminals = [{
     lastName: "Capone",
     birth: "1899-01-17",
     city: "Brooklyn, New York, USA",
-    crime: "organizovaný zločin, daňové úniky",
+    crime: "organized crime, tax evasion",
     photo: "images/Capone.jpg"
   },
   {
@@ -27,7 +27,7 @@ let criminals = [{
     lastName: "Manson",
     birth: "1934-11-12",
     city: "Cincinnati, Ohio, USA",
-    crime: "organizování vražd",
+    crime: "organizing murders",
     photo: "images/Manson.jpg"
   },
   {
@@ -35,7 +35,7 @@ let criminals = [{
     lastName: "Dahmer",
     birth: "1960-05-21",
     city: "Wisconsin, USA",
-    crime: "sériový vrah",
+    crime: "a serial killer",
     photo: "images/Dahmer.jpg"
   },
   {
@@ -43,7 +43,7 @@ let criminals = [{
     lastName: "Babis",
     birth: "1954-09-02",
     city: "Praha",
-    crime: "Kauza Čapí hnízdo",
+    crime: "The Stork Nest Case",
     photo: "images/Babis.jpg"
   }];
 
